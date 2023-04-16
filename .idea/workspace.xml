@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6995067b-12b2-4bc4-ab27-36f517711cc3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson 3/1000_efrsb_messages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 3/emails.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 3/traders.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 3/traders.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 3/traders.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 3/main.py" afterDir="false" />
+    <list default="true" id="6995067b-12b2-4bc4-ab27-36f517711cc3" name="Changes" comment="Add file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 3/emails.json" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 3/emails.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,9 +68,26 @@
       <option name="presentableId" value="Default" />
       <updated>1678131888692</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add file">
+      <created>1681491309568</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681491309569</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add file">
+      <created>1681491329788</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681491329789</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Add file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add file" />
   </component>
 </project>

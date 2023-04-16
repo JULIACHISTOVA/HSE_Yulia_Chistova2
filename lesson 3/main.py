@@ -30,7 +30,7 @@ def execute_task_1():
 
 def find_emails_in_text(text):
     """Поиск email в тексте."""
-    return re.findall(r'[\w\.-]+@[\w\.-]+\.\w+', text)
+    return re.findall(r'\\s([\\w._$+~-]+@[a-z]+\.[a-z]+)(?:\\s|$|,|\.)', text)
 
 
 def execute_task_2():
